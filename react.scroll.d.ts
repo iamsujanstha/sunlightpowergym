@@ -22,5 +22,5 @@ declare module 'react-scroll' {
     children?: React.ReactNode;
   }
 
-  export class Link extends React.Component<ScrollLinkProps> { }
+  export class Link extends React.Component<ScrollLinkProps> {}
 }
