@@ -47,7 +47,7 @@ const Nav = ({ containerStyles }: { containerStyles: string }) => {
             offset={link.offset}
             spy
             activeClass="active"
-            className="cursor-pointer hover:text-accent transition-all"
+            className="cursor-pointer hover:text-accent transition-all text-white"
           >
             {link.name}
           </ScrollLink>
