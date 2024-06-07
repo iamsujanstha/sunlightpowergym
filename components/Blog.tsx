@@ -1,9 +1,11 @@
-import React from 'react'
+import React from 'react';
 
 const Blog = () => {
   return (
-    <section className='h-screen bg-blue-200' id='blog'>Blog</section>
-  )
-}
+    <section className="h-screen bg-blue-200" id="blog">
+      Blog
+    </section>
+  );
+};
 
-export default Blog
+export default Blog;
